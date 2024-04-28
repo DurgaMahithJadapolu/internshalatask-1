@@ -1,0 +1,30 @@
+body{
+    background-color:blanchedalmond;
+    text-align: center;
+}
+.title{
+    color: blue;
+    font-weight: 800;
+
+}
+.cd{
+    margin-top: 20px;
+    /* border: 2px solid blue; */
+}
+.cd h2{
+    font-size: x-large;
+  
+}
+
+label{
+    font-size: x-large;  
+    font-weight: 700;
+}
+span{
+    color: blue;
+    font-weight: 200;   
+}
+option{
+    /* text-align: center; */
+    font-weight: 600;     
+}
